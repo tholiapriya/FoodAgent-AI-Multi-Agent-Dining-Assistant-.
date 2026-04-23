@@ -129,5 +129,5 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Ankit Kumawat**
+**Priya**
 M.Tech (AI/ML)
