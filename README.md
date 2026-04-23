@@ -1,5 +1,5 @@
 
-# 🚀 FoodAgent – AI-Powered Restaurant Chatbot
+ FoodAgent – AI-Powered Restaurant Chatbot
 
 FoodAgent is an intelligent restaurant assistant that uses **Retrieval-Augmented Generation (RAG)**, **LangGraph workflows**, and **Large Language Models (LLMs)** to deliver a seamless conversational experience.
 
@@ -7,30 +7,28 @@ It can search restaurants, take food orders, manage table reservations, and simu
 
 ---
 
-## ✨ Features
+ Features
+Restaurant Search (RAG)
 
-* 🔍 **Restaurant Search (RAG आधारित)**
+ Retrieves relevant restaurants using vector search (ChromaDB)
+Food Ordering System
+Conversational ordering experience
+Table Reservation**
 
-  * Retrieves relevant restaurants using vector search (ChromaDB)
-* 🍽️ **Food Ordering System**
-
-  * Conversational ordering experience
-* 📅 **Table Reservation**
-
-  * Book tables interactively
-* 💬 **Conversational AI**
+ Book tables interactively
+Conversational AI
 
   * LLM-powered chatbot (Groq API)
-* 💳 **QR Code Payment Simulation**
+*  **QR Code Payment Simulation**
 
   * Generate QR and confirm payment
-* 🔀 **Multi-Agent Workflow**
+ **Multi-Agent Workflow**
 
   * Built using LangGraph for modular design
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 User Input
 → Intent Detection
@@ -41,7 +39,7 @@ User Input
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 * Python
 * LangChain
@@ -71,7 +69,7 @@ User Input
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/foodagent.git
@@ -81,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```bash
 python main.py
@@ -96,7 +94,7 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * LLM-based intent detection
 * Conversation memory
@@ -106,7 +104,7 @@ python main.py
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 * Restaurant chatbots
 * Food delivery platforms
@@ -115,19 +113,16 @@ python main.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📜 License
 
-MIT License
 
----
+##  Author
 
-## 👨‍💻 Author
-
-**Priya**
-M.Tech (AI/ML)
+Priya Tholia 
+Ankit Kumawat 
+M.Tech CSDP IIT KGP
